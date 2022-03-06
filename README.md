@@ -11,12 +11,18 @@ The purpose of this analysis is to apply diffrent machine learning algorithims t
 
 The following results are for all six machine learning algorithims are listed below:
 
-RandomOverSampler
-SMOTE
-ClusterCentriods
-SMOTEEN
-BalancedRandomForestClassifier
-EasyEnsembleClassifier
+1) ```RandomOverSampler```:
+* 
+
+2) ```SMOTE```:
+
+3) ```ClusterCentriods```:
+
+4) ```SMOTEEN```:
+
+5) ```BalancedRandomForestClassifier```:
+
+6) ```EasyEnsembleClassifier```:
 
 
 
