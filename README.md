@@ -11,12 +11,24 @@ The purpose of this analysis is to apply diffrent machine learning algorithims t
 
 The following results are for all six machine learning algorithims are listed below:
 
-RandomOverSampler
-SMOTE
-ClusterCentriods
-SMOTEEN
-BalancedRandomForestClassifier
-EasyEnsembleClassifier
+1) ```RandomOverSampler```:
+  * 62% Accuracy Score
+  
+  
+2) ```SMOTE```:
+  * 62% Accuracy Score
+
+3) ```ClusterCentriods```:
+  * 51% Accuracy Score
+
+4) ```SMOTEEN```:
+  * 63% Accuracy Score
+
+5) ```BalancedRandomForestClassifier```:
+  * 79% Accuracy Score
+
+6) ```EasyEnsembleClassifier```:
+  * 93% Accuracy Score
 
 
 
